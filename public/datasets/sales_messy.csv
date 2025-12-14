@@ -1,0 +1,21 @@
+OrderID,Customer,Revenue,Quantity,OrderDate,Channel
+1001,Ahmad,"1234.50 EGP",2,2025-01-10, online 
+1002,Sara,"980 EGP",-1,10/01/2025,STORE
+1003,Youssef,,3,2025.01.11,Partner
+1001,Laila,"1234.50 EGP",1,2025-01-12,Online
+1004,Omar,"1500egp",5,11/01/2025, store
+1005,Nour,"-300 EGP",-2,2025/01/12,partner
+1006,Karim,"1700.00 EGP",4,2025-01-13,PARTNER
+1007,Mona," 900 ",2,13.01.2025, online
+1008,Hassan,"2500.75 EGP",0,2025-01-14,Store
+1009,Salma,"1800EGP",3,14/01/2025, Online
+1010,Tarek,"",2,2025.01.15,online
+1011,Rania,"2200 EGP",-3,2025-01-15, STORE 
+1012,Huda,"1450",1,15/01/2025,Partner
+1013,Khaled,"1600.20 EGP",2,2025/01/16, online
+1014,Mariam,"1750",3,2025-01-16,Store
+1015,Ziad,"2100EGP",4,17-01-2025, partner
+1016,Doha,"1950 EGP",2,2025.01.17,online
+1017,Mostafa,"0",-1,18/01/2025,Store
+1018,Rami,"1850 EGP",2,2025-01-18, Online
+1019,Farah,"1720EGP",1,2025/01/19,online
